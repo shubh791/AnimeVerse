@@ -1,0 +1,38 @@
+﻿export const WORLDS = [
+  {
+    id: 'vermilion',
+    name: 'Vermilion Dawn',
+    tag: 'DARK FANTASY · 24 EP',
+    line: 'Where empire bleeds, prophecy rises.',
+    img: '/assets/redgirl1.png',
+    accent: 'rgba(220,40,40,0.35)',
+    artist: 'Studio Kurogane',
+  },
+  {
+    id: 'shadow-crest',
+    name: 'Shadow Crest',
+    tag: 'ACTION · NINJUTSU · 26 EP',
+    line: 'A vow kept across two lifetimes.',
+    img: '/assets/samurai1.png',
+    accent: 'rgba(180,40,50,0.30)',
+    artist: 'Studio Mokuren',
+  },
+  {
+    id: 'cursed-veil',
+    name: 'Cursed Veil',
+    tag: 'SUPERNATURAL · 22 EP',
+    line: 'The hex that ate a city. The boy who wears it.',
+    img: '/assets/smartanime1.png',
+    accent: 'rgba(255,90,120,0.32)',
+    artist: 'Studio Hoshikage',
+  },
+  {
+    id: 'ascendant',
+    name: 'Ascendant',
+    tag: 'MARTIAL · TOURNAMENT · 30 EP',
+    line: 'Power without ceiling. Honor without compromise.',
+    img: '/assets/goku1.png',
+    accent: 'rgba(255,140,40,0.32)',
+    artist: 'Studio Yorukumo',
+  },
+]
