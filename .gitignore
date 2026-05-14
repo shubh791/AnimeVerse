@@ -47,3 +47,6 @@ coverage/
 # misc
 *.pem
 .vercel
+
+# claude code
+.claude/
